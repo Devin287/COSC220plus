@@ -1,0 +1,120 @@
+
+[dts@localhost Lab-2]$ ./main
+
+100Hrd test size for sorts....
+
+Quicksort of ascending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 4.463e-06s
+
+Quicksort of descending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 5.462e-06s
+
+Quicksort of random array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 7.142e-06s
+
+Mergesort of ascending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 5.601e-06s
+
+Mergesort of descending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 5.414e-06s
+
+Mergesort of random array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 7.939e-06s
+
+10K test size for sorts....
+
+Quicksort of ascending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.000565306s
+
+Quicksort of descending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.000673388s
+
+Quicksort of random array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.00121047s
+
+Mergesort of ascending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.000702554s
+
+Mergesort of descending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.000694693s
+
+Mergesort of random array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.00123804s
+
+100K test size for sorts....
+
+Quicksort of ascending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.00719951s
+
+Quicksort of descending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.00804213s
+
+Quicksort of random array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.0149374s
+
+Mergesort of ascending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.00842276s
+
+Mergesort of descending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.0112193s
+
+Mergesort of random array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.0145931s
+
+600K test size for sorts....
+
+Quicksort of ascending array...
+Finished at Wed Feb 12 21:28:26 2020
+Elapsed time: 0.049877s
+
+Quicksort of descending array...
+Finished at Wed Feb 12 21:28:26 2020
+Elapsed time: 0.0545262s
+
+Quicksort of random array...
+Finished at Wed Feb 12 21:28:26 2020
+Elapsed time: 0.106174s
+
+Mergesort of ascending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.0610968s
+
+Mergesort of descending array...
+Finished at Wed Feb 12 21:14:10 2020
+Elapsed time: 0.0548598s
+
+Mergesort of random array...
+Finished at Wed Feb 12 21:14:11 2020
+Elapsed time: 0.0980812s
+
+
+					Valgrind:
+
+==11874== 
+==11874== HEAP SUMMARY:
+==11874==     in use at exit: 0 bytes in 0 blocks
+==11874==   total heap usage: 35 allocs, 35 frees, 2,921,438 bytes allocated
+==11874== 
+==11874== All heap blocks were freed -- no leaks are possible
+==11874== 
+==11874== For counts of detected and suppressed errors, rerun with: -v
+==11874== ERROR SUMMARY: 10000000 errors from 109 contexts (suppressed: 0 from 0)
+

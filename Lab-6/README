@@ -1,0 +1,28 @@
+(a)  Summarize your approach to the problem, and how your code addresses the abstractions needed.
+
+	To approach this problem I started with testing out a suffle function that would correctly randomize an array. I then implmented that to randomize the arrays. FOr the hiring problem I wanted to loop while resizing one array which I was able to do. Then I reused old code fixed some memory issues but more poped up by the end of this lab. Also fixed sizing problems with my arrays not being able to go past 500k. I think the problem was that I was not using a dynamically allocated array so when I tried using an array with one million it was putting all of it on the stack and couldnt fit on. To fix it I changed them to be dynmaically allocated arrays.
+
+(b)  What is the theoretical time complexity of your algorithms (best and worst case), in terms of theinput size?  Be sure to vary the parameters enough to use the observations to answer the nextquestions!i.  For example, if your algorithm takes timeT(n) =n2, and you double the input (e.g.  1000 to2000), is the time nowT(2000) = 20002= 22∗10002= 22∗T(1000) =T(2∗1000) ?ii.  Consider this mode of thought for other complexity classes:  How much longer should it taketo double the input?  Does your experiment reflect this?  If not, what could be the reasonsthat change the performance in practice?iii.  Which algorithms are most/least impacted by the initial ordering of the array?  Why or whynot?
+
+		From 10k to 50k the time went from .0005 to .003. The time grew 6 times larger. It should take nlogn times longer. A reason could be that I wirte bad code and that it has extra functions that may add more time when called. Mergesort seemed to be the least impacted and heap as the most.
+
+
+(c)  How does the absolute timing of different algorithms scale with the input?  Use the data collectedto rectify this with the theoretical time complexity, e.g.  what non-asymptotic function ofnmostlyclosely matches the timings that you observe asngrows?i.  Does the average number of assistants hired look close to the theoretical expectation?ii.  For quicksort, does the number of swaps look like the expectation proved in class?
+
+	It grows at different rates. I looks like they grow exponentially except for heap. I think my heapsort is not sorting correctly and merge dropped becuase it didnt want to sort one million.
+
+
+(d)  What, roughly, should the worst case running time look like (in seconds)?  Estimate this from yourobserved time (e.g.  after counting comparisons/swaps, calculate the time per swap and considerif there were the worst case number of swaps).  Do the algorithms ever come close to incurringthis worst case cost?
+
+	SHould be n^2 worst and nlogn best.
+
+(e)  Use  Mathematica  or  another  program  to  plot  your  average  timing  data  as  a  function  of  arraysize.  Then try to find a function that smoothly approximates your data (e.g.  some constant timesnlogn).
+
+
+(f)  Can you think of a way to judge the quality of yourshuffleroutine?  Do you see ways it couldbe made to have a more random output?
+
+	As was said in class I could base the randomiztion off of the some physical compnent making it harder to predict and immitate randomness better. Although if I were to track randomness this way I would think it would still be predictiable depending upon the physical aspect because a GPU temp could stay within a small range of tempature. SO maybe tracking a large range would be better for randomness.
+
+(g)  How could the code be improved in terms of usability, efficiency, and robustness?
+
+	Put the sorts in a loop like I did the hiring problem.

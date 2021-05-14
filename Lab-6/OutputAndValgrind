@@ -1,0 +1,1461 @@
+[dts@localhost Lab-6]$ make
+g++ -c main.cpp -std=c++11
+g++ -o main main.o Sorts.o -std=c++11
+[dts@localhost Lab-6]$ ./main
+
+There are an average of 9 swaps for the hiring assistant.
+
+There are an average of 12 swaps for the hiring assistant.
+
+There are an average of 11 swaps for the hiring assistant.
+
+There are an average of 13 swaps for the hiring assistant.
+
+There are an average of 14 swaps for the hiring assistant.
+
+There are an average of 16 swaps for the hiring assistant.
+
+There are an average of 17 swaps for the hiring assistant.
+
+There are an average of 15 swaps for the hiring assistant.
+
+There are an average of 15 swaps for the hiring assistant.
+
+There are an average of 13 swaps for the hiring assistant.
+
+There are an average of 14 swaps for the hiring assistant.
+
+There are an average of 14 swaps for the hiring assistant.
+
+There are an average of 15 swaps for the hiring assistant.
+
+There are an average of 15 swaps for the hiring assistant.
+
+There are an average of 17 swaps for the hiring assistant.
+
+There are an average of 16 swaps for the hiring assistant.
+
+There are an average of 16 swaps for the hiring assistant.
+
+There are an average of 16 swaps for the hiring assistant.
+
+There are an average of 16 swaps for the hiring assistant.
+
+There are an average of 17 swaps for the hiring assistant.
+
+
+10000Thsd test size for sorts....
+
+Quicksort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000524055s
+
+Quicksort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000562971s
+
+Quicksort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0011097s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000461381s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00054465s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000482625s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000526569s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000479134s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000530284s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000454391s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000488515s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0004835s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000492622s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000482597s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000529821s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000481583s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000526971s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000509277s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000479532s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000526498s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000481726s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000516842s
+
+The average for this random array is 0.000529411.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+RQSQuicksort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000526406s
+
+RQSQuicksort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000574723s
+
+RQSQuicksort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00109659s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000530606s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00053654s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000496854s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000521623s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000483465s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000528299s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000484563s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000533217s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000457086s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000501841s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000493863s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000502029s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000509511s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000536386s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000465351s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000514505s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000519281s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000458413s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000538445s
+
+The average for this random array is 0.000535423.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+Mergesort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000739509s
+
+Mergesort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000712146s
+
+Mergesort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00123391s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00071567s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000723129s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00075736s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000724227s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00074453s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000702862s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000791381s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000774722s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000724814s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000733992s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000859401s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000709743s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000711394s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000709253s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00068565s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000705483s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000736591s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000724341s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.000680332s
+
+The average for this random array is 0.000757439.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+HeapSort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 2.84e-07s
+
+HeapSort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 1.18e-07s
+
+HeapSort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.5e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.8e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.8e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 1e-07s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 8.2e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 9.6e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 8.9e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.6e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 1.07e-07s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 9.9e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.5e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.1e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 8.7e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 8.4e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.5e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 9.7e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.5e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 8.4e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.7e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.5e-08s
+
+The average for this random array is 8.25e-08.
+
+Sorted!
+
+Not sorted!
+
+Sorted!
+
+50000Thsd test size for sorts....
+
+Quicksort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00348081s
+
+Quicksort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00346275s
+
+Quicksort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00671568s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00293972s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00806039s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00300143s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00312702s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00291422s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00292157s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00298875s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00294911s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00301639s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0029818s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0031987s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00303338s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00299103s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00305604s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00314023s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00305828s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00296013s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00307228s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00290092s
+
+The average for this random array is 0.00345135.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+RQSQuicksort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00305219s
+
+RQSQuicksort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00333647s
+
+RQSQuicksort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00653142s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00313393s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00322023s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00295561s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00299544s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00300294s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.002971s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00301619s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00307649s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00296852s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00317454s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00333788s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00304332s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00290042s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00306549s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00298335s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0029496s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00359507s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00310863s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00301004s
+
+The average for this random array is 0.003252.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+Mergesort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00414466s
+
+Mergesort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00392085s
+
+Mergesort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0069289s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00398964s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00404709s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00422188s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00403694s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00420305s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00407397s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00399496s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00392177s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00402797s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00400684s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00401661s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00827441s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0040768s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00394062s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00404974s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00574319s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00521765s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00400913s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00410355s
+
+The average for this random array is 0.00454424.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+HeapSort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 1.54e-07s
+
+HeapSort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 1.09e-07s
+
+HeapSort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 9.9e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 8.7e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.5e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.4e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 7.3e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.6e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.4e-08s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 6.2e-08s
+
+The average for this random array is 6.645e-08.
+
+Sorted!
+
+Not sorted!
+
+Sorted!
+
+150000Thsd test size for sorts....
+
+Quicksort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0108591s
+
+Quicksort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0133905s
+
+Quicksort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0227209s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00971469s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00916927s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00965228s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0102224s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00951296s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00961636s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0108207s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00938958s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00932736s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.010993s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0102611s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00927659s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0102628s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0122715s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00926787s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00981432s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00945594s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00925076s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0108691s
+
+The average for this random array is 0.0105935.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+RQSQuicksort of ascending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00967999s
+
+RQSQuicksort of descending array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0110641s
+
+RQSQuicksort of random array...
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0212122s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.0094634s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00950807s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00938643s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00960078s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00962054s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00985154s
+Finished at Thu Mar 12 03:38:12 2020
+Elapsed time: 0.00953115s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00996392s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00962153s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0094184s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00996356s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00993045s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00942641s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0096936s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0103238s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0101132s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00947589s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00964092s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.00967947s
+
+The average for this random array is 0.0102713.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+Mergesort of ascending array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0135068s
+
+Mergesort of descending array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0128876s
+
+Mergesort of random array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.022616s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0136218s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0129614s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0133277s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0129314s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0160979s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0133435s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0137328s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0134779s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0129927s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.013138s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0128149s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0131053s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0127786s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0129075s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0139822s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0134143s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0134131s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0133087s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0127272s
+
+The average for this random array is 0.0138347.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+HeapSort of ascending array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 2.96e-07s
+
+HeapSort of descending array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 2.09e-07s
+
+HeapSort of random array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.4e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 8.7e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 6.2e-08s
+
+The average for this random array is 6.33e-08.
+
+Sorted!
+
+Not sorted!
+
+Sorted!
+
+350000Thsd test size for sorts....
+
+Quicksort of ascending array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0242447s
+
+Quicksort of descending array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0273109s
+
+Quicksort of random array...
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0540348s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.023844s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0261607s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.024472s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0242398s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0241712s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0250252s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.023906s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0242839s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0239966s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0241412s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0249417s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0239986s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0241678s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0239624s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0243086s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0259998s
+Finished at Thu Mar 12 03:38:13 2020
+Elapsed time: 0.0241212s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0254656s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.024179s
+
+The average for this random array is 0.025971.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+RQSQuicksort of ascending array...
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0247274s
+
+RQSQuicksort of descending array...
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0294237s
+
+RQSQuicksort of random array...
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.056565s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0398226s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0392782s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0287179s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0258896s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0256245s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0242977s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0243025s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0246725s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0241425s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.024664s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0269496s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0258561s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0254866s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0246972s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0255655s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0247121s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0266596s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0270078s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0264762s
+
+The average for this random array is 0.0285694.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+Mergesort of ascending array...
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0369068s
+
+Mergesort of descending array...
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0318789s
+
+Mergesort of random array...
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0584852s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0321908s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0324069s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0349601s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0342588s
+Finished at Thu Mar 12 03:38:14 2020
+Elapsed time: 0.0322926s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0330823s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0325927s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0331159s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0370926s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0344835s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0330442s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0326371s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0333372s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0324614s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0319126s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0316501s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0328001s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0322664s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0322775s
+
+The average for this random array is 0.0343674.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+HeapSort of ascending array...
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 4.25e-07s
+
+HeapSort of descending array...
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 9.4e-08s
+
+HeapSort of random array...
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 1.08e-07s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 1.19e-07s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 7e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 8.1e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 6.1e-08s
+
+The average for this random array is 6.84e-08.
+
+Sorted!
+
+Not sorted!
+
+Sorted!
+
+600000Thsd test size for sorts....
+
+Quicksort of ascending array...
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.042129s
+
+Quicksort of descending array...
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0484317s
+
+Quicksort of random array...
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0984303s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0457871s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0429024s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0440121s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0423138s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0419562s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0432635s
+Finished at Thu Mar 12 03:38:15 2020
+Elapsed time: 0.0427904s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0433747s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0424378s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0448688s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0433057s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0437615s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0497941s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0455651s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0511354s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0466017s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0453027s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0482579s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0431996s
+
+The average for this random array is 0.047453.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+RQSQuicksort of ascending array...
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0444394s
+
+RQSQuicksort of descending array...
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0493354s
+
+RQSQuicksort of random array...
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0946033s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0445872s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0429224s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0436543s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0428031s
+Finished at Thu Mar 12 03:38:16 2020
+Elapsed time: 0.0447387s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0433108s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0474283s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0431984s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0429136s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0431926s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0473395s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0432108s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0467564s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0423504s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0427958s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0465726s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0429647s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0433686s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0497529s
+
+The average for this random array is 0.0469232.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+Mergesort of ascending array...
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0576817s
+
+Mergesort of descending array...
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0570782s
+
+Mergesort of random array...
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.101937s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0570158s
+Finished at Thu Mar 12 03:38:17 2020
+Elapsed time: 0.0567919s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0570616s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0567453s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0575701s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0565915s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0571943s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0560313s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0570005s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0559423s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0586402s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0577539s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.056926s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0593579s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0584316s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0561275s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0594249s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0588109s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 0.0572139s
+
+The average for this random array is 0.0596284.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+HeapSort of ascending array...
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 4.72e-07s
+
+HeapSort of descending array...
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 1.64e-07s
+
+HeapSort of random array...
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 9.9e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 7e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 1.11e-07s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 7.2e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 9.6e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 7.1e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.6e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.5e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.5e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 8.3e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:18 2020
+Elapsed time: 6.4e-08s
+
+The average for this random array is 7.1e-08.
+
+Sorted!
+
+Not sorted!
+
+Not sorted!
+
+1000000Thsd test size for sorts....
+
+Quicksort of ascending array...
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0765219s
+
+Quicksort of descending array...
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0817964s
+
+Quicksort of random array...
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.16401s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.078498s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.074809s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0740624s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0737922s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0756166s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0737479s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0750393s
+Finished at Thu Mar 12 03:38:19 2020
+Elapsed time: 0.0736985s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0743159s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0760374s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0735219s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0735586s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0758114s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0732497s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0749974s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0749963s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0777148s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0856824s
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0757461s
+
+The average for this random array is 0.0799453.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+RQSQuicksort of ascending array...
+Finished at Thu Mar 12 03:38:20 2020
+Elapsed time: 0.0767042s
+
+RQSQuicksort of descending array...
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0821152s
+
+RQSQuicksort of random array...
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.161885s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.079647s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0785867s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0783525s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0786681s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0729876s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0730019s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0797008s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0746402s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0728859s
+Finished at Thu Mar 12 03:38:21 2020
+Elapsed time: 0.0735292s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0741062s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0734676s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0742665s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0775782s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0736843s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0769168s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0792981s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0854561s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0749723s
+
+The average for this random array is 0.0806816.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+Mergesort of ascending array...
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00850968s
+
+Mergesort of descending array...
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00964986s
+
+Mergesort of random array...
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0148791s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00918289s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00823512s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00864942s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.0084751s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00838261s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00833505s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00832684s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00856056s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00850867s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00823424s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00841996s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00841381s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00845739s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00819959s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00847363s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00920507s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00912248s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00831099s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 0.00906534s
+
+The average for this random array is 0.00887189.
+
+Sorted!
+
+Sorted!
+
+Sorted!
+
+HeapSort of ascending array...
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 4.17e-07s
+
+HeapSort of descending array...
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 2.6755e-05s
+
+HeapSort of random array...
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 1.43e-07s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.9e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.8e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.8e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.9e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.1e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.7e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 8.1e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 7.1e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.4e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.8e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 7e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.3e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.9e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.2e-08s
+Finished at Thu Mar 12 03:38:22 2020
+Elapsed time: 6.6e-08s
+
+The average for this random array is 7.04e-08.
+
+Sorted!
+
+Not sorted!
+
+Not Sorted!
+
+Valgrind:
+
+==23198== 
+==23198== HEAP SUMMARY:
+==23198==     in use at exit: 0 bytes in 0 blocks
+==23198==   total heap usage: 548 allocs, 548 frees, 21,528,659 bytes allocated
+==23198== 
+==23198== All heap blocks were freed -- no leaks are possible
+==23198== 
+==23198== For counts of detected and suppressed errors, rerun with: -v
+==23198== ERROR SUMMARY: 10000000 errors from 134 contexts (suppressed: 0 from 0)

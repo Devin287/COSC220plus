@@ -1,0 +1,20 @@
+README:
+
+(a)  What is the theoretical time complexity of your sorting algorithms (best and worst case), in terms of the array size? 
+	
+	Quicksorts best case is O(nLogn), worst is O(n^2). Mergesorts is best O(nLogn) and worst O(nLogn).
+
+
+(b)  How does the absolute timing scale with the number of elements in the array?  The size of the elements?  Can you use the data collected to rectify this with the theoretical time complexity?
+	
+	The time increases much slower as the size increases compared to the sorts of last lab.You could track the efficiency of algorithims with this data to improve the program.
+
+(c)  Aggregate your data into a graph of the complexity for the various array sizes, for example with a spreadsheet program like LibreOffice Calc or Microsoft Word.
+
+
+(d)  How do the algorithms perform in different cases?  What is the best and worst case, according to your own test results?
+	Both sorts performed equally. I need to test the sorts more to get more accuarte data.According to my test results the times did not change signifigantly enough which makes me think that both best and worst cases are nLogn.
+
+(e)  How could the code be improved in terms of usability, efficiency, and robustness?
+	
+	I could use even bigger array sizes to better test the efficiency. When I tried I was getting errors. The code could be condensed by combing shuffle functions and using dynamic memory correctly to adjust array sizes.

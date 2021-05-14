@@ -1,0 +1,401 @@
+g++ -c main.cpp -std=c++11 -g
+g++ -o main main.o Sorts.o -std=c++11 -g
+[dts@localhost Lab-1]$ ./main
+
+100Hrd test size for sorts....
+
+Bubble sort of ascending array...
+Number of swaps for bubble sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 3.194e-06s
+
+Bubble sort of descending array...
+Number of swaps for bubble sort is 4950
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 2.6382e-05s
+
+Bubble sort of random array...
+Number of swaps for bubble sort is 2461
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 3.2561e-05s
+
+Selection sort of ascending array...
+Number of swaps for selection sort is 99
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.1296e-05s
+
+Selection sort of descending array...
+Number of swaps for selection sort is 99
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.1771e-05s
+
+Selection sort of random array...
+Number of swaps for selection sort is 99
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.5481e-05s
+
+Insertion sort of ascending array...
+Number of swaps for insertion sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.787e-06s
+
+Insertion sort of descending array...
+Number of swaps for insertion sort is 4950
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.8908e-05s
+
+Insertion sort of random array...
+Number of swaps for insertion sort is 2414
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.2101e-05s
+
+500Hrd test size for sorts....
+
+Bubble sort of ascending array...
+Number of swaps for bubble sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 2.436e-06s
+
+Bubble sort of descending array...
+Number of swaps for bubble sort is 124750
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000623599s
+
+Bubble sort of random array...
+Number of swaps for bubble sort is 60331
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000549081s
+
+Selection sort of ascending array...
+Number of swaps for selection sort is 499
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000258838s
+
+Selection sort of descending array...
+Number of swaps for selection sort is 499
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000224405s
+
+Selection sort of random array...
+Number of swaps for selection sort is 499
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000244036s
+
+Insertion sort of ascending array...
+Number of swaps for insertion sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 2.592e-06s
+
+Insertion sort of descending array...
+Number of swaps for insertion sort is 124750
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000370003s
+
+Insertion sort of random array...
+Number of swaps for insertion sort is 62006
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000239864s
+
+1K test size for sorts....
+
+Bubble sort of ascending array...
+Number of swaps for bubble sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 3.194e-06s
+
+Bubble sort of descending array...
+Number of swaps for bubble sort is 498501
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.00242082s
+
+Bubble sort of random array...
+Number of swaps for bubble sort is 255260
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.00232045s
+
+Selection sort of ascending array...
+Number of swaps for selection sort is 998
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000911384s
+
+Selection sort of descending array...
+Number of swaps for selection sort is 998
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000899386s
+
+Selection sort of random array...
+Number of swaps for selection sort is 998
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.0010924s
+
+Insertion sort of ascending array...
+Number of swaps for insertion sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 4.679e-06s
+
+Insertion sort of descending array...
+Number of swaps for insertion sort is 498501
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.00207522s
+
+Insertion sort of random array...
+Number of swaps for insertion sort is 247963
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.000766486s
+
+5K test size for sorts....
+
+Bubble sort of ascending array...
+Number of swaps for bubble sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.0227e-05s
+
+Bubble sort of descending array...
+Number of swaps for bubble sort is 12492501
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.0616877s
+
+Bubble sort of random array...
+Number of swaps for bubble sort is 6157250
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.0656874s
+
+Selection sort of ascending array...
+Number of swaps for selection sort is 4998
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.0240718s
+
+Selection sort of descending array...
+Number of swaps for selection sort is 4998
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.0237964s
+
+Selection sort of random array...
+Number of swaps for selection sort is 4998
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.024419s
+
+Insertion sort of ascending array...
+Number of swaps for insertion sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.6966e-05s
+
+Insertion sort of descending array...
+Number of swaps for insertion sort is 12492501
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.0400084s
+
+Insertion sort of random array...
+Number of swaps for insertion sort is 6287110
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.0196871s
+
+10K test size for sorts....
+
+Bubble sort of ascending array...
+Number of swaps for bubble sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 1.9211e-05s
+
+Bubble sort of descending array...
+Number of swaps for bubble sort is 49985001
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.256514s
+
+Bubble sort of random array...
+Number of swaps for bubble sort is 24851024
+The list is sorted.
+Finished at Wed Feb  5 21:32:59 2020
+Elapsed time: 0.309561s
+
+Selection sort of ascending array...
+Number of swaps for selection sort is 9998
+The list is sorted.
+Finished at Wed Feb  5 21:33:00 2020
+Elapsed time: 0.0965881s
+
+Selection sort of descending array...
+Number of swaps for selection sort is 9998
+The list is sorted.
+Finished at Wed Feb  5 21:33:00 2020
+Elapsed time: 0.0947354s
+
+Selection sort of random array...
+Number of swaps for selection sort is 9998
+The list is sorted.
+Finished at Wed Feb  5 21:33:00 2020
+Elapsed time: 0.099107s
+
+Insertion sort of ascending array...
+Number of swaps for insertion sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:33:00 2020
+Elapsed time: 2.3319e-05s
+
+Insertion sort of descending array...
+Number of swaps for insertion sort is 49985001
+The list is sorted.
+Finished at Wed Feb  5 21:33:00 2020
+Elapsed time: 0.158132s
+
+Insertion sort of random array...
+Number of swaps for insertion sort is 24803624
+The list is sorted.
+Finished at Wed Feb  5 21:33:00 2020
+Elapsed time: 0.0814071s
+
+50K test size for sorts....
+
+Bubble sort of ascending array...
+Number of swaps for bubble sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:33:00 2020
+Elapsed time: 0.000115727s
+
+Bubble sort of descending array...
+Number of swaps for bubble sort is 1249925001
+The list is sorted.
+Finished at Wed Feb  5 21:33:06 2020
+Elapsed time: 6.35424s
+
+Bubble sort of random array...
+Number of swaps for bubble sort is 621925147
+The list is sorted.
+Finished at Wed Feb  5 21:33:14 2020
+Elapsed time: 8.14562s
+
+Selection sort of ascending array...
+Number of swaps for selection sort is 49998
+The list is sorted.
+Finished at Wed Feb  5 21:33:17 2020
+Elapsed time: 2.4597s
+
+Selection sort of descending array...
+Number of swaps for selection sort is 49998
+The list is sorted.
+Finished at Wed Feb  5 21:33:19 2020
+Elapsed time: 2.31464s
+
+Selection sort of random array...
+Number of swaps for selection sort is 49998
+The list is sorted.
+Finished at Wed Feb  5 21:33:22 2020
+Elapsed time: 2.40435s
+
+Insertion sort of ascending array...
+Number of swaps for insertion sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:33:22 2020
+Elapsed time: 0.000123127s
+
+Insertion sort of descending array...
+Number of swaps for insertion sort is 1249925001
+The list is sorted.
+Finished at Wed Feb  5 21:33:26 2020
+Elapsed time: 4.12037s
+
+Insertion sort of random array...
+Number of swaps for insertion sort is 622937428
+The list is sorted.
+Finished at Wed Feb  5 21:33:28 2020
+Elapsed time: 2.03975s
+
+100K test size for sorts....
+
+Bubble sort of ascending array...
+Number of swaps for bubble sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:33:28 2020
+Elapsed time: 0.000188928s
+
+Bubble sort of descending array...
+Number of swaps for bubble sort is 704882705
+The list is sorted.
+Finished at Wed Feb  5 21:33:53 2020
+Elapsed time: 25.4615s
+
+Bubble sort of random array...
+Number of swaps for bubble sort is -1797640180
+The list is sorted.
+Finished at Wed Feb  5 21:34:27 2020
+Elapsed time: 33.2308s
+
+Selection sort of ascending array...
+Number of swaps for selection sort is 99998
+The list is sorted.
+Finished at Wed Feb  5 21:34:36 2020
+Elapsed time: 9.50328s
+
+Selection sort of descending array...
+Number of swaps for selection sort is 99998
+The list is sorted.
+Finished at Wed Feb  5 21:34:45 2020
+Elapsed time: 9.03739s
+
+Selection sort of random array...
+Number of swaps for selection sort is 99998
+The list is sorted.
+Finished at Wed Feb  5 21:34:55 2020
+Elapsed time: 9.47141s
+
+Insertion sort of ascending array...
+Number of swaps for insertion sort is 0
+The list is sorted.
+Finished at Wed Feb  5 21:34:55 2020
+Elapsed time: 0.0002273s
+
+Insertion sort of descending array...
+Number of swaps for insertion sort is 704882705
+The list is sorted.
+Finished at Wed Feb  5 21:35:11 2020
+Elapsed time: 16.3252s
+
+Insertion sort of random array...
+Number of swaps for insertion sort is -1794175836
+The list is sorted.
+Finished at Wed Feb  5 21:35:19 2020
+Elapsed time: 8.27755s
+
+			//////VALGRIND///////
+No leaks, only errors. 
+
+
+

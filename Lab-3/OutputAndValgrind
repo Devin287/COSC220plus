@@ -1,0 +1,45 @@
+[dts@localhost Lab-3]$ ./main
+
+100Hrd test size for sorts....
+Ascending
+Number of swaps for heap sort is 100finished at Thu Feb 20 20:16:28 2020
+elapsed time: 1.274e-05s
+Number of swaps for heap sort is 100finished at Thu Feb 20 20:16:28 2020
+elapsed time: 1.0669e-05s
+Number of swaps for heap sort is 100finished at Thu Feb 20 20:16:28 2020
+elapsed time: 1.1694e-05s
+
+100K test size for sorts....
+
+Descending
+Number of swaps for heap sort is 100000finished at Thu Feb 20 20:16:28 2020
+elapsed time: 0.00196744s
+Number of swaps for heap sort is 100000finished at Thu Feb 20 20:16:28 2020
+elapsed time: 0.0014942s
+Number of swaps for heap sort is 100000finished at Thu Feb 20 20:16:28 2020
+elapsed time: 0.00178052s
+
+600K test size for sorts....
+
+Randomized
+Number of swaps for heap sort is 600000finished at Thu Feb 20 20:16:28 2020
+elapsed time: 0.00843333s
+Number of swaps for heap sort is 600000finished at Thu Feb 20 20:16:28 2020
+elapsed time: 0.0139716s
+Number of swaps for heap sort is 600000finished at Thu Feb 20 20:16:28 2020
+elapsed time: 0.0116519s
+
+
+==11278== Warning: client switching stacks?  SP change: 0x1ffeaa87e0 --> 0x1ffeffff98
+==11278==          to suppress, use: --max-stackframe=5601208 or greater
+==11278== 
+==11278== HEAP SUMMARY:
+==11278==     in use at exit: 0 bytes in 0 blocks
+==11278==   total heap usage: 22 allocs, 22 frees, 2,881,262 bytes allocated
+==11278== 
+==11278== All heap blocks were freed -- no leaks are possible
+==11278== 
+==11278== For counts of detected and suppressed errors, rerun with: -v
+==11278== Use --track-origins=yes to see where uninitialised values come from
+==11278== ERROR SUMMARY: 10000000 errors from 129 contexts (suppressed: 0 from 0)
+

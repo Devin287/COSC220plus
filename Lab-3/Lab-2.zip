@@ -1,0 +1,41 @@
+[dts@localhost Lab-3]$ ./main
+
+100Hrd test size for sorts....
+Ascending
+Number of swaps for insertion sort is 100finished at Thu Feb 20 20:01:51 2020
+elapsed time: 1.2329e-05s
+Number of swaps for insertion sort is 100finished at Thu Feb 20 20:01:51 2020
+elapsed time: 1.0626e-05s
+Number of swaps for insertion sort is 100finished at Thu Feb 20 20:01:51 2020
+elapsed time: 1.1425e-05s
+
+100K test size for sorts....
+
+Descending
+Number of swaps for insertion sort is 100000finished at Thu Feb 20 20:01:51 2020
+elapsed time: 0.00204045s
+Number of swaps for insertion sort is 100000finished at Thu Feb 20 20:01:51 2020
+elapsed time: 0.00140369s
+Number of swaps for insertion sort is 100000finished at Thu Feb 20 20:01:51 2020
+elapsed time: 0.00180608s
+
+600K test size for sorts....
+
+Randomized
+Number of swaps for insertion sort is 600000finished at Thu Feb 20 20:01:51 2020
+elapsed time: 0.0085764s
+Number of swaps for insertion sort is 600000finished at Thu Feb 20 20:01:51 2020
+elapsed time: 0.00957411s
+Number of swaps for insertion sort is 60000
+
+
+==11003== HEAP SUMMARY:
+==11003==     in use at exit: 0 bytes in 0 blocks
+==11003==   total heap usage: 22 allocs, 22 frees, 2,881,262 bytes allocated
+==11003== 
+==11003== All heap blocks were freed -- no leaks are possible
+==11003== 
+==11003== For counts of detected and suppressed errors, rerun with: -v
+==11003== Use --track-origins=yes to see where uninitialised values come from
+==11003== ERROR SUMMARY: 10000000 errors from 129 contexts (suppressed: 0 from 0)
+

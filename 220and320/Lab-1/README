@@ -1,0 +1,21 @@
+README:
+
+(a)  What is the theoretical time complexity of your sorting algorithms (best and worst case), in terms of the array size? 
+	
+	Bubble sorts best case is O(n), worst is O(n^2). Selections sorts data seems a bit offf but I think it is O(n^2) best and worst. Insertion is best O(n) and worst O(n^2).
+
+
+(b)  How does the absolute timing scale with the number of elements in the array?  The size of the elements?  Can you use the data collected to rectify this with the theoretical time complexity?
+	
+	After a certain thresh hold of numbers the timing gets much longer along with the size.You could track the efficiency of algorithims with this data to improve the program.
+
+(c)  Aggregate your data into a graph of the complexity for the various array sizes, for example with a spreadsheet program like LibreOffice Calc or Microsoft Word.
+
+
+(d)  How do the algorithms perform in different cases?  What is the best and worst case, according to your own test results?
+	
+	Most interesting bubble performed better with descending rather than random while Insertion was the oppisite. In each case the Big O resembles what it should be stated in question (a).
+
+(e)  How could the code be improved in terms of usability, efficiency, and robustness?
+	
+	I think think the algorthims perform well in the big picture but might be able to be improved at a smaller scale because I think some of the data seems larger than it should be at a smaller size. The code could be condensed by combing shuffle functions and using dynamic memory correctly to adjust array sizes.
